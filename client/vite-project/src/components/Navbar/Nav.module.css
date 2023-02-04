@@ -1,0 +1,17 @@
+.layout{
+    width: 100%;
+    background: rgb(168, 95, 95);
+    height: 50px;
+    display: flex;
+    padding: 10px;
+}
+
+.container{
+
+    width: 100%;
+    background: rgb(152, 216, 122);
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
